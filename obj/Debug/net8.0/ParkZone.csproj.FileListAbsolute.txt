@@ -1,0 +1,14 @@
+D:\Projetos .NET\ParkZone\obj\Debug\net8.0\ParkZone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos .NET\ParkZone\obj\Debug\net8.0\ParkZone.AssemblyInfoInputs.cache
+D:\Projetos .NET\ParkZone\obj\Debug\net8.0\ParkZone.AssemblyInfo.cs
+D:\Projetos .NET\ParkZone\obj\Debug\net8.0\ParkZone.csproj.CoreCompileInputs.cache
+D:\Projetos .NET\ParkZone\bin\Debug\net8.0\ParkZone.exe
+D:\Projetos .NET\ParkZone\bin\Debug\net8.0\ParkZone.deps.json
+D:\Projetos .NET\ParkZone\bin\Debug\net8.0\ParkZone.runtimeconfig.json
+D:\Projetos .NET\ParkZone\bin\Debug\net8.0\ParkZone.dll
+D:\Projetos .NET\ParkZone\bin\Debug\net8.0\ParkZone.pdb
+D:\Projetos .NET\ParkZone\obj\Debug\net8.0\ParkZone.dll
+D:\Projetos .NET\ParkZone\obj\Debug\net8.0\refint\ParkZone.dll
+D:\Projetos .NET\ParkZone\obj\Debug\net8.0\ParkZone.pdb
+D:\Projetos .NET\ParkZone\obj\Debug\net8.0\ParkZone.genruntimeconfig.cache
+D:\Projetos .NET\ParkZone\obj\Debug\net8.0\ref\ParkZone.dll
